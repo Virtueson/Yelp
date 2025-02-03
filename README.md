@@ -1,4 +1,4 @@
-This project focuses on leveraging the Yelp dataset to identify good restaurants using machine learning techniques. The goal is to analyze various features of restaurants—such as ratings, review sentiment, location, cuisine type, and user check-ins—to build a predictive model that can recommend high-quality dining experiences.
+This project focuses on leveraging the Yelp dataset to identify good restaurants using machine learning techniques. The goal is to analyze various features of restaurants—such as ratings, restaurants feature, location,  and user check-ins—to build a predictive model that can recommend high-quality dining experiences.
 
 Key Steps:
 Data Exploration: Analyze the Yelp dataset to understand the distribution of restaurant ratings, popular cuisines, and user review patterns.
